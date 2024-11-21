@@ -1,7 +1,7 @@
 # THIS IS AN IMPLEMENTATION OF A SHELL IN C 
 
 To run the following code:
-"make main" \\
+"make main" and then 
 "./a.out"
 
 
